@@ -1,2 +1,2 @@
 # helloGit
-just to understand the featgures
+just to understand the features
